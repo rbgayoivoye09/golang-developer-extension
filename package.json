@@ -3,13 +3,14 @@
   "publisher" : "WoodEighteen",
   "displayName": "golang-developer-extension-pack",
   "description": "For me, some commonly used plugins for golang development",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "./image.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/rbgayoivoye09/golang-developer-extension"
