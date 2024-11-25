@@ -1,0 +1,29 @@
+{
+  "name": "golang-developer-extension-pack",
+  "displayName": "golang-developer-extension-pack",
+  "description": "For me, some commonly used plugins for golang development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "mhutchie.git-graph", 
+    "donjayamanne.githistory", 
+    "eamodio.gitlens", 
+    "golang.go", 
+    "nhoizey.gremlins", 
+    "lninl.theme-hbuilderx-soft-green-light", 
+    "christian-kohler.path-intellisense", 
+    "esbenp.prettier-vscode", 
+    "ms-vscode-remote.remote-ssh", 
+    "ms-vscode.remote-explorer", 
+    "seyyedkhandon.firacode",
+    "mutantdino.resourcemonitor", 
+    "alibaba-cloud.tongyi-lingma", 
+    "codeinchinese.englishchinesedictionary", 
+    "ms-vscode-remote.remote-ssh-edit"
+  ]
+}
